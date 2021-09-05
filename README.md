@@ -10,8 +10,8 @@ Can't access The Pirate Bay? Try one of the proxy sites below. A proxy site allo
 
 Unblock The Pirate Bay with one of these proxy sites.
 
-1. https://thepiratebay.unblockninja.com
-2. https://tpb.proxyninja.org
+1. thepiratebay.unblockninja.com
+2. tpb.proxyninja.org
 
 
 ## Countries blocking access to The Pirate Bay
